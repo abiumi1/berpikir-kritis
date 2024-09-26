@@ -68,13 +68,18 @@
       "slug": "welcome/page",
       "order": 0,
       "parent": "item-341d3c77-5b03-486f-b890-4ac52f09f156",
-      "title": "Page",
-      "description": "",
+      "title": "Berpikir Kritis",
+      "description": "Fishbone diagram (diagram tulang ikan &#8212; karena bentuknya seperti tulang ikan) sering juga disebut Cause-and-Effect Diagram atau Ishikawa Diagram diperkenalkan oleh Dr. Kaoru Ishikawa, seorang ah",
       "metadata": {
         "created": 1727316716,
-        "updated": 1727316716,
-        "images": [],
-        "videos": []
+        "updated": 1727316808,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "assessment",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 5
       }
     }
   ]
