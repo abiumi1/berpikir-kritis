@@ -60,6 +60,22 @@
         "videos": {},
         "images": {}
       }
+    },
+    {
+      "id": "item-ebe45653-8d8e-4b63-850b-28fb105f75be",
+      "indent": 0,
+      "location": "pages/item-ebe45653-8d8e-4b63-850b-28fb105f75be/index.html",
+      "slug": "welcome/page",
+      "order": 0,
+      "parent": "item-341d3c77-5b03-486f-b890-4ac52f09f156",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1727316028,
+        "updated": 1727316028,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
