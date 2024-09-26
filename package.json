@@ -1,7 +1,7 @@
 {
-  "name": "{{ short }}",
-  "version": "{{ version }}",
-  "description": "{{ description }}",
+  "name": "berpikir-kritis",
+  "version": "9.0.6",
+  "description": "",
   "main": "index.html",
   "author": {
     "name": "btopro"
