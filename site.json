@@ -69,18 +69,19 @@
       "order": 0,
       "parent": "item-341d3c77-5b03-486f-b890-4ac52f09f156",
       "title": " Diagram Tulang Ikan",
-      "description": "Fishbone diagram (diagram tulang ikan &#8212; karena bentuknya seperti tulang ikan) sering juga disebut Cause-and-Effect Diagram atau Ishikawa Diagram diperkenalkan oleh Dr. Kaoru Ishikawa, seorang a",
+      "description": "Fishbone diagram (diagram tulang ikan — karena bentuknya seperti tulang ikan) sering juga disebut Cause-and-Effect Diagram atau Ishikawa Diagram diperkenalkan oleh Dr. Kaoru Ishikawa, seorang a",
       "metadata": {
         "created": 1727316028,
-        "updated": 1727316106,
+        "updated": 1727316120,
         "images": {},
         "videos": {},
         "published": true,
         "pageType": "activity",
         "hideInMenu": false,
-        "tags": "materi,",
+        "tags": "materi",
         "locked": false,
-        "readtime": 5
+        "readtime": 5,
+        "icon": "hax:ticket"
       }
     }
   ]
